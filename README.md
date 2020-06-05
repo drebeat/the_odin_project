@@ -10,3 +10,5 @@ This is a mini project created to deconstruct an extisting website and rebuild.
     - Identify three ways you can include your CSS styles in a page
     - Understand how to use classes and ids to target CSS at specific elements on the page
     - Build a very basic form (even if it doesn’t “go” anywhere)
+    
+    Click here to the page . . . https://drebeat.github.io/the_odin_project/
